@@ -4,4 +4,4 @@ Bennett here, I'm a biology-oriented person who is stumbling around with the tec
 
 Ohh also, my favorite cat is the British Shorthair. 
 
-Also to prove my fallibility, I just failed to title my file correctly, so when going through the github tutorial my issue didn't automatically close. 
+Also to prove my fallibility, I just failed to title my file correctly, so when going through the github tutorial my issue didn't automatically close. I did this twice, because github issue numbering system. 
